@@ -1,7 +1,10 @@
-# Project Description
+# Software Engineering Documentation Samples  
+This repository contains selected documentation and diagrams from my coursework at Arizona State University.  
 
-One of my Software Engineering courses at Arizona State University focused on the **inception** (project launch) and **elaboration** (requirements analysis) phases in software project teams.
-
+These samples demonstrate my ability to:  
+- Create structured technical documentation (reports, requirements, and analysis).  
+- Develop and explain UML diagrams and system models.  
+- Communicate technical information clearly for both technical and non-technical audiences.  
 ---
 
 ## ⚠️ Academic Integrity Notice
