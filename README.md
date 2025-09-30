@@ -1,5 +1,5 @@
 # Software Engineering Documentation Samples  
-This repository contains selected documentation and diagrams from my coursework at Arizona State University.  
+This repository contains selected documentation and diagrams from my coursework (SER 415 - Inception) at Arizona State University.  
 
 These samples demonstrate my ability to:  
 - Create structured technical documentation (reports, requirements, and analysis).  
